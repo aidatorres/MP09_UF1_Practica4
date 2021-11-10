@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Montserrat:wght@100&display=swap');
+@font-face {
+    font-family: 'Alex Brush';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/Alex-Brush-Regular.eot'); /* IE9 */
+    src: url('../fonts/Alex-Brush-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+      url('../fonts/Alex-Brush-Regular.woff2') format('woff2'), /* Modern Browsers */
+      url('../fonts/Alex-Brush-Regular.woff') format('woff'), /* Modern Browsers */
+      url('../fonts/Alex-Brush-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+      url('../fonts/Alex-Brush-Regular.svg#AlexBrush') format('svg'); /* Legacy iOS */
+  }
+
+.estil1 {
+    font-family: Georgia;
+    font-size: 2em;
+}
+
+.estil2 {
+    font-family: Palatino Linotype;
+    font-style: oblique;
+    font-size: 5%;
+}
+
+.estil3 {
+    font-family: Times New Roman;
+    font-weight: 300;
+    font-size: 3vmax;
+}
+
+.estil4 {
+    font-family: arial;
+    text-shadow: black;
+    font-size: 7vmin;
+}
+
+.estil5 {
+    font-family: tahoma;
+    text-decoration: blueviolet;
+    font-size: 10vh;
+}
+
+.estil6 {
+    font-family: font face open-sans;
+    text-overflow: ellipsis;
+    font-size: 20pt;
+}
+
+.estil7 {
+    font-family: 'Dancing Script';
+    text-align: center;
+    font-size: 4vw;
+}
+
+.estil8 {
+    font-family: 'Montserrat';
+    line-height: 2em;
+    font-size: 2rem;
+}
+
+.estil9 {
+    font-family: 'Alex Brush';
+    -webkit-text-fill-color: cadetblue;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: crimson;
+    font-size: 4rem;
+    
+}
+
+body{
+    font-size: 18px;
+}
+
+.icon-headphones:before {
+    content: "\1f31d";
+  }
+
+.icon-dice:before {
+    content: "\1f352";
+    font-size: 100px;
+  }
+
+.icon-bell:before {
+    content: "\1f335";
+    font-size: 50px;
+
+  }
+
+
+
+
